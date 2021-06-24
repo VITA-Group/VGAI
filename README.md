@@ -33,7 +33,7 @@ Ting-Kuei Hu, Fernando Gama, Tianlong Chen, Wenqing Zheng, Zhangyang Wang, Aleja
 
 
 # Quick test
-* Run the batch "exec_dagnn.sh"/"exec_gnn.sh"
+* Run the batch "exec_test.sh"
 * change the setting according to the "Testing hyper-parameters"
 
 # Testing hyper-parameters
