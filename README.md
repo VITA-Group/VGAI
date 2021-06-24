@@ -1,8 +1,8 @@
-# Scalable Perception-Action-Communication Loopswith Convolutional and Graph Neural Networks
+# Scalable Perception-Action-Communication Loops with Convolutional and Graph Neural Networks
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-The code is used to reproduce the result of "Scalable Perception-Action-Communication Loopswith Convolutional and Graph Neural Networks"
+The code is used to reproduce the result of "Scalable Perception-Action-Communication Loops with Convolutional and Graph Neural Networks"
 
 Ting-Kuei Hu, Fernando Gama, Tianlong Chen, Wenqing Zheng, Zhangyang Wang, Alejandro Ribeiro and Brian M. Sadler
 
