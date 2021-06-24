@@ -1,4 +1,11 @@
+# Scalable Perception-Action-Communication Loopswith Convolutional and Graph Neural Networks
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 The code is used to reproduce the result of "Scalable Perception-Action-Communication Loopswith Convolutional and Graph Neural Networks"
+
+Ting-Kuei Hu, Fernando Gama, Tianlong Chen, Wenqing Zheng, Zhangyang Wang, Alejandro Ribeiro and Brian M. Sadler
+
 # Prerequisite
 * Before running the script, make sure you have install microsoft airsim on 4.23 version. The instruction for the installation is in https://microsoft.github.io/AirSim/
 * After installing airsim, launching the airsim by GUI and play start. Make sure the setting.json is correctly located in the airsim folder.
