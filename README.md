@@ -1,6 +1,7 @@
 # Scalable Perception-Action-Communication Loops with Convolutional and Graph Neural Networks
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+IEEE Transactions on Signal and Information Processing over Networks, 2022, [Scalable Perception-Action-Communication Loops with Convolutional and Graph Neural Networks](https://ieeexplore.ieee.org/document/9667318)
 
 The code is used to reproduce the result of "Scalable Perception-Action-Communication Loops with Convolutional and Graph Neural Networks"
 
